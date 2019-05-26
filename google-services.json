@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71231508492",
+    "firebase_url": "https://bookmygame-cb6b7.firebaseio.com",
+    "project_id": "bookmygame-cb6b7",
+    "storage_bucket": "bookmygame-cb6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71231508492:android:e8394e6e851959ba",
+        "android_client_info": {
+          "package_name": "com.example.bookmygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71231508492-9tg6sd4gpjpa8ulnrulv368edguc13b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookmygame",
+            "certificate_hash": "9d64829a5f4ecaae3d86e6657d5bee829385f1f0"
+          }
+        },
+        {
+          "client_id": "71231508492-hgran0p55mkrop5niul2abohko7rd87o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzrUbmRd2V3-zhUGL33ILgW1m3McpJ3mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71231508492-hgran0p55mkrop5niul2abohko7rd87o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
